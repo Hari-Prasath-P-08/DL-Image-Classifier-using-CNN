@@ -165,20 +165,16 @@ predict_image(model, image_index=80, dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss per Epoch
-<img width="649" height="215" alt="image" src="https://github.com/user-attachments/assets/c6a4f8e8-41e5-48b8-a3c9-183bc50fa4fc" />
-
+<img width="742" height="213" alt="Screenshot 2025-11-21 210545" src="https://github.com/user-attachments/assets/552848dc-7c1d-4479-9a52-f7650621ebed" />
 
 ## Confusion Matrix
-<img width="944" height="897" alt="image" src="https://github.com/user-attachments/assets/76645663-eb90-4ab9-9da1-bffa37f0eb04" />
-
+<img width="781" height="719" alt="Screenshot 2025-11-21 210608" src="https://github.com/user-attachments/assets/75749890-55dd-41af-b21c-67ea2ce375af" />
 
 ## Classification Report
-<img width="443" height="352" alt="image" src="https://github.com/user-attachments/assets/7f34b8b8-c417-4e8f-8b53-528e9eab75fa" />
-
+<img width="719" height="473" alt="Screenshot 2025-11-21 210622" src="https://github.com/user-attachments/assets/95792fca-7980-4aac-aaa0-9eefbd372783" />
 
 ### New Sample Data Prediction
-<img width="409" height="494" alt="image" src="https://github.com/user-attachments/assets/4043eca8-99a9-404b-be94-3dcc8b5086d5" />
-
+<img width="657" height="634" alt="Screenshot 2025-11-21 210658" src="https://github.com/user-attachments/assets/5bfdae2b-b91b-4cdb-89e9-fdd6457e256a" />
 
 ## RESULT
 A Convolutional Neural Network was successfully developed and trained on the FashionMNIST dataset.
